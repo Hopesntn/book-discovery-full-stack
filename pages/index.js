@@ -8,7 +8,7 @@
 *
 * Name: Fabricio Ortiz Fiallos Student ID: 120220249 Date: August 9, 2026
 *
-* Vercel App (Deployed) Link: ________________________________________________
+* Vercel App (Deployed) Link: https://web422-naa-project.vercel.app/register
 *
 ********************************************************************************/
 
