@@ -14,6 +14,21 @@ This project is a full-stack book discovery application. It uses Next.js and the
 
 The application includes its own user API. User accounts and favourites are stored in MongoDB Atlas, passwords are hashed before storage, and protected requests are authenticated with JSON Web Tokens (JWT). The frontend and API are contained in one Next.js project and can be deployed together on Vercel.
 
+## Technologies Used
+
+| Technology | Purpose |
+| --- | --- |
+| Next.js 15 | Full-stack React framework, routing, and API routes |
+| React 19 | User interface development |
+| MongoDB Atlas and Mongoose | Persistent user and favourites data |
+| JSON Web Token and Passport-JWT | Authentication for protected API requests |
+| bcryptjs | Password hashing and verification |
+| Bootstrap 5 and React-Bootstrap | Styling and UI components |
+| Jotai | Client-side state management |
+| React Hook Form | Form state and validation |
+| SWR | Data fetching and cache revalidation |
+| Open Library APIs | Book search, work details, and cover images |
+
 ## Theme
 
 Book discovery and personal library management using Open Library data, secure account authentication, and persistent MongoDB favourites.
