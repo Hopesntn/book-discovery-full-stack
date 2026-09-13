@@ -1,15 +1,5 @@
 /*********************************************************************************
 * WEB422 - Assignment 1
-*
-* I declare that this assignment is my own work in accordance with Seneca's
-* Academic Integrity Policy:
-*
-* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-*
-* Name: Fabricio Ortiz Fiallos Student ID: 120220249 Date: June 7, 2026
-*
-********************************************************************************/
-
 import useSWR from 'swr';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';

@@ -1,17 +1,5 @@
 /********************************************************************************
 * WEB422 – Assignment 3
-*
-* I declare that this assignment is my own work in accordance with Seneca's
-* Academic Integrity Policy:
-*
-* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-*
-* Name: Fabricio Ortiz Fiallos Student ID: 120220249 Date: August 9, 2026
-*
-* Vercel App (Deployed) Link: https://web422-naa-project.vercel.app/register
-*
-********************************************************************************/
-
 import { useRouter } from 'next/router';
 import { Button, Col, Form, Row } from 'react-bootstrap';
 import { useForm } from 'react-hook-form';

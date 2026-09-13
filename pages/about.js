@@ -18,8 +18,8 @@ export default function About(props) {
       <Card>
         <Card.Body>
           <p>
-            I am a Seneca student building this Next.js application to explore
-            books using the Open Library API. This project demonstrates routing,
+            I am building this Next.js application to explore books using the
+            Open Library API. This project demonstrates routing,
             reusable components, static data fetching, and client-side API
             requests with SWR.
           </p>
